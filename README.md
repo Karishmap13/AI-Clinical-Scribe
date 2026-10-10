@@ -41,8 +41,6 @@ Structured clinical note
    - Lifestyle recommendations
    - A checklist of data to collect at the follow-up visit
 
-An optional final step uses OpenAI's image model to generate an illustration for the project.
-
 ---
 
 ## Keeping the output grounded
