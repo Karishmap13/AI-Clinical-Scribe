@@ -56,7 +56,7 @@ LLMs can invent details that were never said. Since a clinical note has to be ac
 
 ---
 
-## Sample output (abridged)
+## Sample output
 
 ```
 Chief Complaint: Mood changes related to menstrual cycle
